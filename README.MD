@@ -1,4 +1,4 @@
-# Element UI 中国省市区级联数据
+# Element UI 中国省市区级联数据  最新版2021年
 
 
 
@@ -11,7 +11,7 @@
 
 [element-china-area-data](https://github.com/Plortinus/element-china-area-data)
 
-###  由于原创没有继续更新, 在此依赖包更新到全国区划代码改为JSON 格式可以自行修改
+###  由于原创没有继续更新, 在此依赖包更新到全国区划代码改为JSON 格式可以自行修改  最新版2021年
 
 [统计用区划和城乡划分代码](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/index.html)
 
